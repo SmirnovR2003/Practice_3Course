@@ -1,0 +1,2 @@
+<?php
+$MESS["MY_COMPONENT_PARAMETERS_TEMPLATE_FOR_DATE"] = "Шаблон даты";
